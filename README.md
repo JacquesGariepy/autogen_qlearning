@@ -1,4 +1,4 @@
-# ### Étude de Cas : Utilisation d'AutoGen avec Q-learning Amélioré dans un Système Multi-Agent
+## Étude de Cas : Utilisation d'AutoGen avec Q-learning Amélioré dans un Système Multi-Agent
 
 Dans cette étude de cas, nous allons explorer l'utilisation d'**AutoGen**, une plateforme de génération et d'orchestration d'agents basée sur des modèles de langage (LLMs), pour implémenter un système d'apprentissage par renforcement (Q-learning amélioré) dans un environnement multi-agents. Cette étude inclura l'algorithme mathématique en **LaTeX**, un exemple de code Python, et une explication détaillée pour comprendre l'importance de chaque composant.
 
